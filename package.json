@@ -1,0 +1,9 @@
+{
+  "name": "rosodb-client",
+  "version": "1.0.1",
+  "description": "The Client for ROSO",
+  "main": "index.js",
+  "keywords": [],
+  "author": "ThatFriendlyAsianDev",
+  "license": "ISC"
+}
