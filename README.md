@@ -67,5 +67,5 @@ Decent,better than CauseDB.
 First of all its, made to be used on simple projects and client and server hosted on the same device,meaning if you hosted an api in a server the database server would also,be hosted there.
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at gingy.gor@gmail.com
 
