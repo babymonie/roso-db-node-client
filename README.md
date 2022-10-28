@@ -29,7 +29,7 @@ Install rosodb with npm
 ## Usage/Examples
 
 ```javascript
-    const Client =require('rosodb-client');
+    const Client = require('rosodb-client');
     const client = new Client("localhost",3000,"admin","123");
     client.connect();
     const userInfo = {
@@ -40,7 +40,7 @@ Install rosodb with npm
         lastName: "User"
     };
     client.executeCommand("insert into table",{databaseName:"testDB",tableName:"testTable",data:userInfo});
-    client.onResult((result)=>{
+    client.onResult((result )=> {
         console.log(result);
     });
 ```
